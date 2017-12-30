@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RSAKeyGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RSAPublicKeyFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RSA Public Key.txt</Value>
+    </Setting>
+    <Setting Name="RSAPrivateKeyFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RSA Private Key.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
